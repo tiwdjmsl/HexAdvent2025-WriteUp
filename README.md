@@ -1,2 +1,16 @@
-# HexAdvent2025-WriteUp
-for this event i manage to solve santa message for forensic category and hex or bin for crypto (as far as I ve remembered)
+# Santa's Message
+
+---
+
+**Category:** Forensics  
+
+**Author:** kestryix  
+
+**Difficulty:** Medium  
+
+**Challenge Description:**  
+Help Santa's elf recover Santa's secret message!
+
+---
+
+**Flag:** `HEX{31Ve5_uS3_1Ns3cUR3_P@$$w0rd5}`
