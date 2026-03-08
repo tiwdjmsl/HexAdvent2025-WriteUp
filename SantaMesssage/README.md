@@ -122,7 +122,7 @@ Step 7 – Recovering the Flag
 Opening the exported file reveals the hidden message:
 <img width="1439" height="790" alt="image" src="https://github.com/user-attachments/assets/9e3f8314-b279-4317-9def-436c67eb88b3" />
 
-HEX{31Ve5_uS3_1Ns3cUR3_P@$$w0rd5}
+
 
 ## Flag
 HEX{31Ve5_uS3_1Ns3cUR3_P@$$w0rd5}
